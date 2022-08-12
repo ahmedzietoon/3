@@ -93,7 +93,7 @@ h4 {text-align: center;color: var(--color-bdark);margin-top: -3%;
     align-items: center;
 }
 .main-text p:first-of-type{font-size: clamp(40px,5vw,450px);line-height: 140%;}
-.of-the-future{font-size: clamp(55px,6vw,450px);font-weight: bold;line-height: 60px;}
+.of-the-future{font-size: clamp(52px,6vw,450px);font-weight: bold;line-height: 60px;}
 .main-text p:last-of-type{font-size: clamp(15px,2vw,450px);line-height: 30px;
     margin: 0 12%;margin-top: 16px;font-family: var(--f-c);font-weight: lighter;
 }
